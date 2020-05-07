@@ -10,3 +10,6 @@ Foram criadas as classes:
 - Product
 - Client
 - OrderStatus(enum)
+Conforme UML abaixo:
+
+![UML](https://github.com/glauberfernandes/composition3-java/blob/master/UML.PNG)
